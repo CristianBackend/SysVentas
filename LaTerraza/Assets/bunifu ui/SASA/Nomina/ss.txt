@@ -1,0 +1,130 @@
+-- Tabla Empleados
+CREATE TABLE Empleados (
+    id_Empleado INT PRIMARY KEY IDENTITY,
+    Nombre VARCHAR(100),
+    Apellido VARCHAR(100),
+    Edad INT,
+    Fecha_De_Nacimiento VARCHAR(100),
+    Direccion VARCHAR(100),
+    Telefono VARCHAR(100),
+    Cedula VARCHAR(100),
+    NSS VARCHAR(100),
+    NIF VARCHAR(100),
+    Correo VARCHAR(100),
+    Departamento VARCHAR(100),
+    Cargo VARCHAR(100),
+    Fecha_De_Contrato VARCHAR(100),
+    Estatus VARCHAR(100),
+    SalarioBase INT
+);
+
+-- Tabla Usuario
+CREATE TABLE Usuario (
+    id_Usuario INT PRIMARY KEY IDENTITY,
+    Nombre_Usuario VARCHAR(100),
+    Clave VARCHAR(100),
+    Correo VARCHAR(200),
+    Rol VARCHAR(100)
+);
+
+-- Tabla Departamentos
+CREATE TABLE Departamentos (
+    id_Departamento INT PRIMARY KEY IDENTITY,
+    Departamento VARCHAR(100),
+    Edificio VARCHAR(100)
+);
+
+-- Tabla Deducciones
+CREATE TABLE Deducciones (
+    id_Deduccion INT PRIMARY KEY IDENTITY,
+    Deduccion VARCHAR(100),
+    Tipo_Deduccion VARCHAR(100),
+    Monto_Deduccion VARCHAR(100)
+);
+
+-- Tabla Cargos
+CREATE TABLE Cargos (
+    Cargo VARCHAR(100)
+);
+
+-- Tabla Edificio
+CREATE TABLE Edificio (
+    Edificio VARCHAR(100)
+);
+
+-- Tabla Contratos
+CREATE TABLE Contratos (
+    id_Contrato INT PRIMARY KEY IDENTITY,
+    id_Empleado INT,
+    Fecha_Inicio VARCHAR(100),
+    Fecha_Fin VARCHAR(100),
+    Tipo_Contrato VARCHAR(100),
+    Termino_Contrato VARCHAR(100),
+    CONSTRAINT fk_empleado_contrato FOREIGN KEY (id_Empleado) REFERENCES Empleados(id_Empleado)
+);
+
+-- Tabla Nomina
+CREATE TABLE Nomina (
+    id_Nomina INT PRIMARY KEY IDENTITY,
+    Fecha VARCHAR(100),
+    Monto_Total INT
+);
+
+
+ SELECT * FROM Departamentos;
+
+ CREATE PROCEDURE InsertarDepartamento
+    @Departamento VARCHAR(100),
+    @Edificio VARCHAR(100)
+AS
+BEGIN
+    INSERT INTO Departamentos (Departamento, Edificio)
+    VALUES (@Departamento, @Edificio);
+END
+
+CREATE PROCEDURE MostrarDepartamentos
+AS
+BEGIN
+    SELECT * FROM Departamentos;
+END
+
+CREATE PROCEDURE CrearEdificio
+    @NombreEdificio VARCHAR(100)
+AS
+BEGIN
+    INSERT INTO Edificio (Edificio) VALUES (@NombreEdificio);
+END;
+GO
+
+Alter PROCEDURE LeerEdificios
+AS
+BEGIN
+    SELECT Edificio FROM Edificio;
+END;
+GO
+
+Exec MostrarDepartamentos
+
+
+Select * FROM Departamentos
+
+
+CREATE PROCEDURE EliminarDepartamento
+    @id INT
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    IF EXISTS (SELECT 1 FROM Departamentos WHERE id_Departamento = @id)
+    BEGIN
+        DELETE FROM Departamentos WHERE id_Departamento = @id;
+        PRINT 'Departamento eliminado correctamente.';
+    END
+    ELSE
+    BEGIN
+        PRINT 'El departamento especificado no existe.';
+    END
+END;
+
+
+EXEC EliminarDepartamento @id = 1;

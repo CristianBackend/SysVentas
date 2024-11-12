@@ -1,0 +1,15 @@
+C:\Nomina\Nomina\Nomina\bin\Release\Nomina.exe.config
+C:\Nomina\Nomina\Nomina\bin\Release\Nomina.exe
+C:\Nomina\Nomina\Nomina\bin\Release\Nomina.pdb
+C:\Nomina\Nomina\Nomina\bin\Release\FontAwesome.Sharp.dll
+C:\Nomina\Nomina\Nomina\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Nomina\Nomina\Nomina\obj\Release\Nomina.csproj.AssemblyReference.cache
+C:\Nomina\Nomina\Nomina\obj\Release\Nomina.Form1.resources
+C:\Nomina\Nomina\Nomina\obj\Release\Nomina.Form2.resources
+C:\Nomina\Nomina\Nomina\obj\Release\Nomina.Mainpage.resources
+C:\Nomina\Nomina\Nomina\obj\Release\Nomina.Properties.Resources.resources
+C:\Nomina\Nomina\Nomina\obj\Release\Nomina.csproj.GenerateResource.cache
+C:\Nomina\Nomina\Nomina\obj\Release\Nomina.csproj.CoreCompileInputs.cache
+C:\Nomina\Nomina\Nomina\obj\Release\Nomina.csproj.CopyComplete
+C:\Nomina\Nomina\Nomina\obj\Release\Nomina.exe
+C:\Nomina\Nomina\Nomina\obj\Release\Nomina.pdb

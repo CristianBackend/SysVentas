@@ -1,0 +1,1429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmagregarextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmagregarextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmagregarextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmagregarextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\colon\\desktop\\sistema terraza\\laterraza\\laterraza\\capapresentacion\\frmeditarextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditarextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmeditarextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditarextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\colon\\desktop\\sistema terraza\\laterraza\\laterraza\\capapresentacion\\frmcantidadyextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcantidadyextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\colon\\desktop\\sistema terraza\\laterraza\\laterraza\\capapresentacion\\frmcantidadyextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcantidadyextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\colon\\desktop\\sistema terraza\\laterraza\\laterraza\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\agregarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\agregarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\comprarproductonuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\comprarproductonuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\colon\\desktop\\sistema terraza\\laterraza\\laterraza\\capapresentacion\\frmventashechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventashechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmventashechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventashechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capanegocio\\n_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\colon\\desktop\\sistema terraza\\laterraza\\laterraza\\capapresentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capanegocio\\n_extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\agregarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\agregarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capanegocio\\n_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capaentidades\\e_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capadatos\\d_extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capadatos\\d_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcomprarproductoeninventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcomprarproductoeninventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capaentidades\\e_extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capanegocio\\n_ingredientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_ingredientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capaentidades\\e_ingredientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_ingredientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capaentidades\\e_compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capadatos\\d_ingredientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_ingredientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capadatos\\d_compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmextras.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmextras.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capadatos\\d_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmexitoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmexitoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmrealizarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmrealizarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmguardarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmguardarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmguardarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmguardarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmagregarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmagregarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcuentascobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcuentascobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcuentaspagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcuentaspagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmeditarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmeditarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmeditarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capadatos\\d_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmingredientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmingredientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frminventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frminventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capanegocio\\n_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capaentidades\\e_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capaentidades\\e_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capanegocio\\n_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capanegocio\\n_compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcuentaspagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcuentaspagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmeditarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcuentaspagar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcuentaspagar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capanegocio\\n_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2105656C-28D6-4861-AD4E-632ED03EEE83}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capadatos\\d_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capadatos\\d_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6864DA8E-5103-4FF1-9A32-6EA355DBA3C1}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmingredientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmingredientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capaentidades\\e_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\comprarproductonuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\comprarproductonuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\comprarproductonuevo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\comprarproductonuevo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capaentidades\\e_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A7A1C-E84E-4F06-B9A7-98B85246B54C}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcompras.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcompras.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmcomprarproductoeninventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcomprarproductoeninventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmeditarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmeditarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\capapresentacion\\frmagregarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82E0F7C-B626-4FA3-80A3-90A231C264BF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmagregarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmAgregarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmAgregarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:13:40.751Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmGuardarProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmGuardarProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmGuardarProductos.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmGuardarProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmGuardarProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:13:46.14Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FrmGuardarProductos.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmGuardarProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmGuardarProductos.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmGuardarProductos.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmGuardarProductos.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:13:48.715Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FrmAgregarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarProducto.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmAgregarProducto.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:13:52.444Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FrmCompras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCompras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCompras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmCompras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:00:23.193Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmVentas.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:02:46.999Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmVentas.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmVentas.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmVentas.cs",
+              "ViewState": "AQIAAMMAAAAA4PS2/FEkwJEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:22:18.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAgregarExtras.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarExtras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmAgregarExtras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarExtras.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmAgregarExtras.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:29:01.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEditarExtras.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarExtras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEditarExtras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarExtras.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmEditarExtras.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:57:51.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAgregarExtras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarExtras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmAgregarExtras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarExtras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmAgregarExtras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:18:33.879Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:10:55.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmCantidadYExtras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCantidadYExtras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCantidadYExtras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCantidadYExtras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmCantidadYExtras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:59:14.718Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmEditarExtras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarExtras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEditarExtras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarExtras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmEditarExtras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:18:57.635Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCantidadYExtras.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCantidadYExtras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCantidadYExtras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCantidadYExtras.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmCantidadYExtras.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:15:24.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCategoria.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:55:10.941Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgregarCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\AgregarCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\AgregarCategoria.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\AgregarCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\AgregarCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:23:21.201Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-02T22:04:11.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ComprarProductoNuevo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\ComprarProductoNuevo.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ComprarProductoNuevo.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\ComprarProductoNuevo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\ComprarProductoNuevo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:05:35.076Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmVentasHechas.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmVentasHechas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmVentasHechas.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmVentasHechas.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmVentasHechas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:58:14.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "N_Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Ventas.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Ventas.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Ventas.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Ventas.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:15:07.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmLogin.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:02:04.103Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmInventario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmInventario.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:15:53.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmVentasHechas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmVentasHechas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmVentasHechas.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmVentasHechas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmVentasHechas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:34:14.746Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "N_Extras.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Extras.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Extras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Extras.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Extras.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:42:26.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AgregarCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\AgregarCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\AgregarCategoria.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\AgregarCategoria.cs",
+              "RelativeToolTip": "CapaPresentacion\\AgregarCategoria.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:58:40.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "N_Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Categoria.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Categoria.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Categoria.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Categoria.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:33:48.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "E_Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Categoria.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Categoria.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Categoria.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Categoria.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:29:11.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "D_Extras.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Extras.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Extras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Extras.cs",
+              "RelativeToolTip": "CapaDatos\\D_Extras.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:38:23.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "D_Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Categoria.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Categoria.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Categoria.cs",
+              "RelativeToolTip": "CapaDatos\\D_Categoria.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:01:24.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmExtras.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmExtras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmExtras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmExtras.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmExtras.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA6wDwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:35:21.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmComprarProductoEnInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmComprarProductoEnInventario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmComprarProductoEnInventario.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmComprarProductoEnInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmComprarProductoEnInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:00:19.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCategoria.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCategoria.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmCategoria.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:55:14.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmExtras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmExtras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmExtras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmExtras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmExtras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:14:53.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "E_Extras.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Extras.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Extras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Extras.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Extras.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:39:56.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmInventario.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmInventario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmInventario.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmInventario.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmInventario.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:15:55.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "N_Ingredientes.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Ingredientes.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Ingredientes.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Ingredientes.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Ingredientes.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:01:54.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "E_Compras.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Compras.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Compras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Compras.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Compras.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:29:00.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "D_Ingredientes.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Ingredientes.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Ingredientes.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Ingredientes.cs",
+              "RelativeToolTip": "CapaDatos\\D_Ingredientes.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:59:34.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "E_Ingredientes.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Ingredientes.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Ingredientes.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Ingredientes.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Ingredientes.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:00:52.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "D_Compras.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Compras.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Compras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Compras.cs",
+              "RelativeToolTip": "CapaDatos\\D_Compras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:31:23.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmExtras.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmExtras.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmExtras.Designer.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmExtras.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmExtras.Designer.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:36:52.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "D_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Productos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Productos.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Productos.cs",
+              "RelativeToolTip": "CapaDatos\\D_Productos.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:16:25.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmExitoso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmExitoso.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmExitoso.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmExitoso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmExitoso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:01:50.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:02:33.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmRealizarVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmRealizarVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmRealizarVenta.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmRealizarVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmRealizarVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:02:32.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmBienvenida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmBienvenida.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmBienvenida.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmBienvenida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmBienvenida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:59:47.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FrmAgregarProveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarProveedor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmAgregarProveedor.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarProveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmAgregarProveedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:59:34.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FrmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:00:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmCrearUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmCrearUsuario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCrearUsuario.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmCrearUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmCrearUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:00:24.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmCuentasCobrar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmCuentasCobrar.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCuentasCobrar.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmCuentasCobrar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmCuentasCobrar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:00:39.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FrmCuentasPagar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCuentasPagar.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCuentasPagar.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCuentasPagar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmCuentasPagar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:19:29.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FrmEditarCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEditarCategoria.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmEditarCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:00:41.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FrmEditarProveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarProveedor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEditarProveedor.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarProveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmEditarProveedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:18:55.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FrmEditarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarUsuario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEditarUsuario.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmEditarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:01:00.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FrmError.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmError.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmError.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmError.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmError.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:01:10.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "D_Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Ventas.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Ventas.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Ventas.cs",
+              "RelativeToolTip": "CapaDatos\\D_Ventas.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAUwFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:01:15.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FrmIngredientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmIngredientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmIngredientes.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmIngredientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmIngredientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:11:47.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:02:16.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FrmProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmProveedores.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmProveedores.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:02:17.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FrmInventario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmInventario.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmInventario.Designer.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmInventario.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmInventario.Designer.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAAAP4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:27:47.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FrmVentas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmVentas.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmVentas.Designer.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmVentas.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmVentas.Designer.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:07:03.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "E_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Productos.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Productos.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Productos.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Productos.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:09:34.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "E_Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Ventas.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Ventas.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Ventas.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Ventas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:41:49.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "N_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Productos.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Productos.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Productos.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Productos.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:57:12.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "N_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Usuarios.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Usuarios.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Usuarios.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:38:29.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "N_Compras.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Compras.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Compras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Compras.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Compras.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA9wEEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:33:42.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FrmCuentasPagar.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCuentasPagar.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCuentasPagar.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCuentasPagar.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmCuentasPagar.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAywC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:28:26.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FrmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmUsuarios.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmUsuarios.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAUwEQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:02:34.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FrmCompras.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCompras.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCompras.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmCompras.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:38:28.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "FrmEditarCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEditarCategoria.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarCategoria.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmEditarCategoria.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:00:42.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FrmCuentasPagar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCuentasPagar.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCuentasPagar.Designer.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCuentasPagar.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmCuentasPagar.Designer.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:14:15.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FrmProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmProveedores.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmProveedores.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmProveedores.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmProveedores.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:02:19.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "N_Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Proveedor.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaNegocio\\N_Proveedor.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Proveedor.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:26:53.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "D_Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Proveedor.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Proveedor.cs",
+              "RelativeToolTip": "CapaDatos\\D_Proveedor.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwG8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:22:04.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "D_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Usuarios.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Usuarios.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaDatos\\D_Usuarios.cs",
+              "RelativeToolTip": "CapaDatos\\D_Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:25:30.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "FrmIngredientes.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmIngredientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmIngredientes.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmIngredientes.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmIngredientes.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:18:11.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "E_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Usuarios.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Usuarios.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Usuarios.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:01:33.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ComprarProductoNuevo.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\ComprarProductoNuevo.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ComprarProductoNuevo.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\ComprarProductoNuevo.cs",
+              "RelativeToolTip": "CapaPresentacion\\ComprarProductoNuevo.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:18:58.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmPrincipal.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmPrincipal.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:18:52.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "frmCrearUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmCrearUsuario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCrearUsuario.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmCrearUsuario.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmCrearUsuario.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswCcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:00:26.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ComprarProductoNuevo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\ComprarProductoNuevo.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ComprarProductoNuevo.Designer.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\ComprarProductoNuevo.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\ComprarProductoNuevo.Designer.cs",
+              "ViewState": "AQIAAGYBAAAAAAAAAADwvwkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:21:20.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "E_Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Proveedor.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaEntidades\\E_Proveedor.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Proveedor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:23:33.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "FrmCompras.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCompras.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCompras.Designer.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmCompras.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmCompras.Designer.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAADwv7IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:39:13.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "frmComprarProductoEnInventario.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmComprarProductoEnInventario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmComprarProductoEnInventario.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmComprarProductoEnInventario.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmComprarProductoEnInventario.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:39:33.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmLogin.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\frmLogin.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAjwDAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:02:05.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "FrmEditarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarUsuario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEditarUsuario.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarUsuario.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmEditarUsuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgv0AAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:01:01.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "FrmEditarProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarProveedor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEditarProveedor.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmEditarProveedor.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmEditarProveedor.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAASwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:00:53.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "FrmAgregarProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarProveedor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmAgregarProveedor.cs",
+              "ToolTip": "C:\\Users\\colon\\Desktop\\Sistema Terraza\\LaTerraza\\LaTerraza\\CapaPresentacion\\FrmAgregarProveedor.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmAgregarProveedor.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAjwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:59:35.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

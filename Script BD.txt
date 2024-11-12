@@ -1,0 +1,796 @@
+Create Database Sistema_LaTerraza
+
+--Tabla Usuarios
+Create TABLE Usuarios(
+Id_Usuario int identity (1,1) primary key not null,
+Usuario NVARCHAR (40) NOT NULL,
+Rol NVARCHAR(40) NOT NULL,
+Clave NVARCHAR(40) NOT NULL
+)
+
+--Tabla Categorias
+Create table Categoria(
+Id_Categoria int identity (1,1) primary key not null,
+Codigo as ('CAT' + RIGHT ('00' + Convert (Varchar,Id_Categoria),(2))),
+Nombre NVARCHAR (100) NOT NULL,
+Descripcion NVARCHAR (256))
+
+--Tabla Proveedores
+Create table Proveedores(
+Id_Proveedor int identity (1,1) primary key ,
+Nombre NVARCHAR(50) NOT NULL,
+Codigo as ('PROV' + RIGHT ('00'+ CONVERT (VARCHAR,Id_Proveedor),(2))),
+Correo NVARCHAR(50),
+Tel NVARCHAR(50)NOT NULL,
+Direccion NVARCHAR(50)
+);
+
+--Tabla Clientes
+Create table Clientes(
+Id_Cliente int identity (1,1) primary key,
+Codigo AS ('CLIE' +RIGHT ('00'+CONVERT(VARCHAR,Id_Cliente),(2))),
+Nombre NVARCHAR (MAX));
+
+--Tabla Para la Factura
+CREATE TABLE Detalles_Ventas (
+Id_DetalleVenta INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+Codigo AS ('NO' +RIGHT ('00'+CONVERT(VARCHAR,Id_DetalleVenta),(2))),
+Id_Producto INT NOT NULL,
+Cantidad INT NOT NULL,
+Cliente nvarchar(500),
+Precio_Unitario DECIMAL(10, 2) NOT NULL,
+Sub_Total DECIMAL(10, 2),
+Descuento DECIMAL(10, 2),
+Valor_Agregado DECIMAL(10, 2),
+Total DECIMAL(10, 2),
+Tipo_Pago NVARCHAR(30),
+Fecha NVARCHAR(50),
+-- Claves foráneas
+CONSTRAINT FK_Producto FOREIGN KEY (Id_Producto) REFERENCES Productos(Id_Producto)
+);
+
+
+CREATE TABLE Ingredientes (
+    Id_Ingrediente INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+    Descripcion NVARCHAR(50) NOT NULL UNIQUE,
+    Cantidad INT NOT NULL
+);
+
+
+create Table Extras(
+Id_Extra int identity (1,1) primary key,
+Extra NVARCHAR(150),
+Descripcion NVARCHAR(Max),
+Precio DECIMAL(20,2)
+)
+select * from Extras
+
+Create proc Sp_Insertar_Extras
+@Extra Nvarchar (100),
+@Descripcion Nvarchar (100),
+@Precio DECIMAL(20,2)
+as
+Insert into Extras(Extra,Descripcion,Precio) Values (@Extra, @Descripcion,@Precio)
+GO
+
+
+
+
+
+
+
+
+
+CREATE TABLE Compras (
+    Id_Compra INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+    Id_Proveedor INT NOT NULL,
+    Fecha DATE NOT NULL DEFAULT GETDATE(),
+    Total DECIMAL(18, 2) NOT NULL,
+    Estado VARCHAR(40), 
+    CONSTRAINT FK_Compra_Proveedor FOREIGN KEY (Id_Proveedor) REFERENCES Proveedores(Id_Proveedor)
+);
+
+
+
+CREATE TABLE Detalle_Compras (
+    Id_Detalle_Compra INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+    Id_Compra INT NOT NULL,
+    Descripcion_Producto NVARCHAR(50) NOT NULL, -- Nombre del ingrediente
+    Cantidad INT NOT NULL,
+    Precio_Unitario DECIMAL(18, 2) NOT NULL,
+    Subtotal DECIMAL(18, 2), 
+    CONSTRAINT FK_DetalleCompra_Compra FOREIGN KEY (Id_Compra) REFERENCES Compras(Id_Compra)
+);
+
+
+--Tabla Productos
+CREATE TABLE Productos(
+    Id_Producto INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+    Codigo AS ('PROD' + RIGHT('00' + CONVERT(VARCHAR, Id_Producto), (2))) PERSISTED,
+    Nombre NVARCHAR(50) NOT NULL,
+    Descripcion NVARCHAR(MAX),
+    Precio_Venta DECIMAL(20,2),
+    Imagen VARBINARY(MAX) NULL,
+    -- Claves Foráneas
+    Id_Categoria INT NOT NULL,
+    -- Referencias
+    CONSTRAINT Referencia_Categoria FOREIGN KEY (Id_Categoria) REFERENCES Categoria(Id_Categoria)
+);
+
+
+--------------------------------------------------------------------------------------------
+---------------------------------------Procedimientos---------------------------------------
+--------------------------------------------------------------------------------------------
+
+------------------------------------------Productos-----------------------------------------
+
+--Insertar Productos
+CREATE PROCEDURE SP_Crear_Producto
+    @Nombre NVARCHAR(50),
+    @Descripcion NVARCHAR(MAX),
+    @Precio_Venta DECIMAL(20,2),
+    @Imagen VARBINARY(MAX),
+    @Id_Categoria INT
+AS
+BEGIN
+    INSERT INTO Productos (Nombre, Descripcion, Precio_Venta, Imagen, Id_Categoria)
+    VALUES (@Nombre, @Descripcion, @Precio_Venta, @Imagen, @Id_Categoria);
+END
+
+
+--Buscar Productos
+Create proc [dbo].[SP_Buscar_Producto]
+@Buscar Nvarchar (20)
+as
+Select
+Productos.Id_Producto,
+Productos.Codigo,
+Productos.Nombre,
+Productos.Descripcion,
+Productos.Id_Categoria,
+Categoria.Nombre AS Categoria,
+Productos.Precio_Venta,
+Productos.Imagen
+From Productos
+Inner join Categoria on Productos.Id_Categoria = Categoria.Id_Categoria
+where Productos.Nombre like @Buscar + '%'
+GO
+
+--Mostrar Productos
+Create proc [dbo].[SP_Mostrar_Productos]
+as
+Select
+Productos.Id_Producto,
+Productos.Codigo,
+Productos.Nombre,
+Productos.Descripcion,
+Productos.Id_Categoria,
+Categoria.Nombre AS Categoria,
+Productos.Precio_Venta,
+Productos.Imagen
+From Productos
+Inner join Categoria on Productos.Id_Categoria = Categoria.Id_Categoria
+GO
+
+--Editar Productos
+CREATE PROCEDURE SP_Actualizar_Producto
+    @Id_Producto INT,
+    @Nombre NVARCHAR(50),
+    @Descripcion NVARCHAR(MAX),
+    @Precio_Venta DECIMAL(20,2),
+    @Id_Categoria INT,
+    @Imagen VARBINARY(MAX)
+AS
+BEGIN
+    UPDATE Productos
+    SET Nombre = @Nombre,
+        Descripcion = @Descripcion,
+        Precio_Venta = @Precio_Venta,
+        Id_Categoria = @Id_Categoria,
+        Imagen = @Imagen
+    WHERE Id_Producto = @Id_Producto;
+END
+
+
+--Eliminar Productos
+CREATE PROCEDURE SP_Eliminar_Producto
+    @Id_Producto INT
+AS
+BEGIN
+    DELETE FROM Productos
+    WHERE Id_Producto = @Id_Producto;
+END
+
+
+--Buscar Y Mostrar Extras
+Create proc Sp_Buscar_Extra
+@Buscar Nvarchar (20)
+as
+select * from Extras
+where Extra like @Buscar + '%'
+GO
+
+
+
+
+
+------------------------------------------Categorias----------------------------------------
+
+--Mostrar y Buscar Categoria
+Create proc [dbo].[SP_Buscar_Categoria]
+@Buscar Nvarchar (20)
+as
+select * from Categoria
+where Nombre like @Buscar + '%'
+GO
+
+--Insertar Categoria
+Create proc [dbo].[SP_Insertar_Categoria]
+@Nombre Nvarchar (100),
+@Descripcion Nvarchar (100)
+as
+Insert into Categoria(Nombre,Descripcion) Values (@Nombre, @Descripcion)
+GO
+
+--Editar Categoria
+Create Proc [dbo].[SP_Editar_Categoria]
+@Id_Categoria int,
+@Nombre Nvarchar(100),
+@Descripcion Nvarchar(100)
+AS
+UPDATE Categoria set Nombre = @Nombre, Descripcion = @Descripcion             
+WHERE Id_Categoria = @Id_Categoria
+GO
+
+--Eliminar Categoria
+CREATE PROCEDURE SP_Eliminar_Categoria
+    @Id_Categoria INT
+AS
+BEGIN
+    -- Inicia una transacción para asegurar atomicidad
+    BEGIN TRANSACTION;
+    
+    BEGIN TRY
+        -- Verifica si la categoría está siendo usada como clave foránea
+        IF EXISTS (SELECT 1 FROM Productos WHERE Id_Categoria = @Id_Categoria)
+        BEGIN
+            -- Lanza un error si la categoría está en uso
+            THROW 50001, 'No se puede eliminarla porque aun tiene productos :(.', 1;
+        END
+        
+        -- Si no está en uso, procede a eliminar
+        DELETE FROM Categoria
+        WHERE Id_Categoria = @Id_Categoria;
+
+        -- Confirma la transacción si todo va bien
+        COMMIT TRANSACTION;
+
+        PRINT 'Categoría eliminada exitosamente.';
+    END TRY
+    BEGIN CATCH
+        -- Si ocurre algún error, realiza un rollback
+        ROLLBACK TRANSACTION;
+
+        -- Lanza el error del sistema
+        DECLARE @ErrorMessage NVARCHAR(4000);
+        DECLARE @ErrorSeverity INT;
+        DECLARE @ErrorState INT;
+
+        SELECT 
+            @ErrorMessage = ERROR_MESSAGE(),
+            @ErrorSeverity = ERROR_SEVERITY(),
+            @ErrorState = ERROR_STATE();
+
+        RAISERROR (@ErrorMessage, @ErrorSeverity, @ErrorState);
+    END CATCH;
+END;
+
+
+
+------------------------------------------Proveedores---------------------------------------
+
+--Mostrar Y Buscar Proveedor
+Create Proc [dbo].[SP_Mostrar_Proveedor]
+@Buscar Nvarchar (20)
+as
+select * from Proveedores
+where Nombre like @Buscar + '%'
+GO
+
+--Contar Cuantos Proveedores Hay
+CREATE PROCEDURE ContarProveedores
+AS
+BEGIN
+    SELECT COUNT(*) AS CantidadProveedores FROM Proveedores;
+END;
+
+--Insertar Proveedor
+Create  proc [dbo].[SP_Agregarproveedor]
+@Nombre Nvarchar (20),
+@Correo Nvarchar (20),
+@Telefono Nvarchar (20),
+@Direccion Nvarchar (20)
+as
+insert into Proveedores(Nombre,Correo,Tel,Direccion) 
+values (@Nombre,@Correo,@Telefono,@Direccion)
+GO
+
+--Editar Proveedor
+create proc [dbo].[SP_Editar_Proveedor]
+@Id_Proveedor int,
+@Nombre Nvarchar (20),
+@Correo Nvarchar (20),
+@Telefono Nvarchar (20),
+@Direccion Nvarchar (20)
+as
+update Proveedores set  Nombre=@Nombre, Correo=@Correo,Tel=@Telefono,Direccion=@Direccion
+where Id_Proveedor=@Id_Proveedor
+GO
+
+--Eliminar Proveedor
+CREATE PROCEDURE SP_EliminarProveedor
+    @Id_Proveedor INT
+AS
+BEGIN
+    -- Inicia una transacción para asegurar la atomicidad de la operación
+    BEGIN TRANSACTION;
+
+    -- Verifica si el proveedor está en uso en la tabla Compras
+    IF EXISTS (SELECT 1 FROM Compras WHERE Id_Proveedor = @Id_Proveedor)
+    BEGIN
+        -- Lanza un error si el proveedor está en uso
+        RAISERROR('Aun Hay Productos De Este Proveedor.', 16, 1);
+        
+        -- Reversión de la transacción en caso de error
+        ROLLBACK TRANSACTION;
+        RETURN;
+    END
+
+    -- Si el proveedor no está en uso, procede a eliminarlo
+    DELETE FROM Proveedores
+    WHERE Id_Proveedor = @Id_Proveedor;
+
+    -- Confirma la transacción si no hay problemas
+    COMMIT TRANSACTION;
+END;
+
+------------------------------------------Compras---------------------------------------
+
+--Agregar Una Compra
+CREATE PROCEDURE SP_InsertarCompra
+    @Id_Proveedor INT,
+    @Fecha DATE,
+    @Total DECIMAL(18, 2),
+    @Estado NVARCHAR(MAX),
+    @Detalles NVARCHAR(MAX) 
+AS
+BEGIN
+    DECLARE @IdCompra INT;
+
+    -- Insertar en Compras
+    INSERT INTO Compras (Id_Proveedor, Fecha, Total, Estado)
+    VALUES (@Id_Proveedor, @Fecha, @Total, @Estado);
+
+    SET @IdCompra = SCOPE_IDENTITY(); 
+
+    -- Procesar cada detalle en el JSON
+    DECLARE @json NVARCHAR(MAX) = @Detalles;
+    DECLARE @Descripcion NVARCHAR(50), @Cantidad INT, @Precio_Unitario DECIMAL(18, 2), @IdIngrediente INT;
+
+    DECLARE detalle_cursor CURSOR FOR
+    SELECT 
+        JSON_VALUE(value, '$.Descripcion_Producto') AS Descripcion,
+        CAST(JSON_VALUE(value, '$.Cantidad') AS INT) AS Cantidad,
+        CAST(JSON_VALUE(value, '$.Precio_Unitario') AS DECIMAL(18, 2)) AS Precio_Unitario
+    FROM OPENJSON(@json);
+
+    OPEN detalle_cursor;
+
+    FETCH NEXT FROM detalle_cursor INTO @Descripcion, @Cantidad, @Precio_Unitario;
+
+    WHILE @@FETCH_STATUS = 0
+    BEGIN
+        -- Verificar si el ingrediente ya existe en la tabla Ingredientes
+        SELECT @IdIngrediente = Id_Ingrediente
+        FROM Ingredientes
+        WHERE LOWER(Descripcion) = LOWER(@Descripcion); 
+
+        IF @IdIngrediente IS NULL
+        BEGIN
+            -- Insertar el ingrediente si no existe
+            INSERT INTO Ingredientes (Descripcion, Cantidad)
+            VALUES (@Descripcion, @Cantidad);
+            SET @IdIngrediente = SCOPE_IDENTITY();
+            PRINT 'Ingrediente insertado: ' + @Descripcion;
+        END
+        ELSE
+        BEGIN
+            -- Actualizar la cantidad si el ingrediente ya existe
+            UPDATE Ingredientes
+            SET Cantidad = Cantidad + @Cantidad
+            WHERE Id_Ingrediente = @IdIngrediente;
+            PRINT 'Cantidad actualizada para: ' + @Descripcion;
+        END
+
+        -- Insertar en Detalle_Compras
+        INSERT INTO Detalle_Compras (Id_Compra, Descripcion_Producto, Cantidad, Precio_Unitario, Subtotal)
+        VALUES (@IdCompra, @Descripcion, @Cantidad, @Precio_Unitario, @Cantidad * @Precio_Unitario);
+
+        -- Avanzar al siguiente detalle
+        FETCH NEXT FROM detalle_cursor INTO @Descripcion, @Cantidad, @Precio_Unitario;
+    END
+
+    CLOSE detalle_cursor;
+    DEALLOCATE detalle_cursor;
+
+    PRINT 'Compra y detalles registrados con éxito';
+END;
+
+--Disparador para que cuando se entre una compra, agregue el producto a la tabla Ingredientes
+CREATE TRIGGER TRG_AfterInsert_DetalleCompras
+ON Detalle_Compras
+AFTER INSERT
+AS
+BEGIN
+    DECLARE @Descripcion NVARCHAR(50), @Cantidad INT, @Precio_Unitario DECIMAL(18, 2);
+    DECLARE @IdIngrediente INT;
+
+    -- Cursor para procesar cada detalle que se ha insertado
+    DECLARE detalle_cursor CURSOR FOR
+    SELECT Descripcion_Producto, Cantidad, Precio_Unitario
+    FROM inserted;  -- La tabla virtual 'inserted' contiene las nuevas filas
+
+    OPEN detalle_cursor;
+
+    FETCH NEXT FROM detalle_cursor INTO @Descripcion, @Cantidad, @Precio_Unitario;
+
+    WHILE @@FETCH_STATUS = 0
+    BEGIN
+        -- Verificar si el ingrediente ya existe en la tabla Ingredientes
+        SELECT @IdIngrediente = Id_Ingrediente
+        FROM Ingredientes
+        WHERE LOWER(Descripcion) = LOWER(@Descripcion); 
+
+        IF @IdIngrediente IS NULL
+        BEGIN
+            -- Insertar el ingrediente si no existe
+            INSERT INTO Ingredientes (Descripcion, Cantidad)
+            VALUES (@Descripcion, @Cantidad);
+        END
+        ELSE
+        BEGIN
+            -- Actualizar la cantidad si el ingrediente ya existe
+            UPDATE Ingredientes
+            SET Cantidad = Cantidad + @Cantidad
+            WHERE Id_Ingrediente = @IdIngrediente;
+        END
+
+        -- Avanzar al siguiente detalle
+        FETCH NEXT FROM detalle_cursor INTO @Descripcion, @Cantidad, @Precio_Unitario;
+    END
+
+    CLOSE detalle_cursor;
+    DEALLOCATE detalle_cursor;
+END;
+
+--Mostrar Las Compras
+CREATE PROCEDURE SP_MostrarCompras
+AS
+BEGIN
+    SELECT 
+        c.Id_Compra,
+        c.Id_Proveedor,
+        p.Nombre AS Nombre_Proveedor, -- Suponiendo que tienes un campo "Nombre" en la tabla Proveedores
+        c.Fecha,
+        c.Total,
+        c.Estado,
+        dc.Id_Detalle_Compra,
+        dc.Descripcion_Producto,
+        dc.Cantidad,
+        dc.Precio_Unitario,
+        dc.Subtotal
+    FROM 
+        Compras AS c
+    INNER JOIN 
+        Proveedores AS p ON c.Id_Proveedor = p.Id_Proveedor
+    LEFT JOIN 
+        Detalle_Compras AS dc ON c.Id_Compra = dc.Id_Compra
+    ORDER BY 
+        c.Id_Compra, dc.Id_Detalle_Compra;
+END;
+
+--Buscar Compras
+CREATE PROCEDURE BuscarCompra
+    @Buscar NVARCHAR(50) -- Ajusta el tamaño según tus necesidades
+AS
+BEGIN
+    SELECT 
+        c.Id_Compra,
+        c.Id_Proveedor,
+        p.Nombre AS Nombre_Proveedor,
+        c.Fecha,
+        c.Total,
+        c.Estado,
+        dc.Id_Detalle_Compra,
+        dc.Descripcion_Producto,
+        dc.Cantidad,
+        dc.Precio_Unitario,
+        dc.Subtotal
+    FROM 
+        Compras AS c
+    INNER JOIN 
+        Proveedores AS p ON c.Id_Proveedor = p.Id_Proveedor
+    LEFT JOIN 
+        Detalle_Compras AS dc ON c.Id_Compra = dc.Id_Compra
+    WHERE 
+        dc.Descripcion_Producto LIKE @Buscar + '%' -- Filtra por el parámetro de búsqueda
+    ORDER BY 
+        c.Id_Compra, dc.Id_Detalle_Compra;
+END;
+
+
+--Buscar Compra Por Pagar
+CREATe PROCEDURE BuscarCompraPorPagar
+AS
+BEGIN
+    SELECT 
+        c.Id_Compra,
+        c.Id_Proveedor,
+        p.Nombre AS Nombre_Proveedor,
+        c.Fecha,
+        c.Total,
+        c.Estado,
+        dc.Id_Detalle_Compra,
+        dc.Descripcion_Producto,
+        dc.Cantidad,
+        dc.Precio_Unitario,
+        dc.Subtotal
+    FROM 
+        Compras AS c
+    INNER JOIN 
+        Proveedores AS p ON c.Id_Proveedor = p.Id_Proveedor
+    LEFT JOIN 
+        Detalle_Compras AS dc ON c.Id_Compra = dc.Id_Compra
+    WHERE 
+	     c.Estado = 'A Credito' 
+    ORDER BY 
+        c.Id_Compra, dc.Id_Detalle_Compra;
+END;
+
+--Buscar Cuentas Por Pagar
+CREATE PROCEDURE BuscarCuentasPorPagar
+    @Buscar VARCHAR(50)
+AS
+BEGIN
+    -- Ajustar cualquier espacio adicional y estandarizar el texto en 'Estado' a 'A Credito'
+    UPDATE Compras
+    SET Estado = 'A Credito'
+    WHERE RTRIM(LTRIM(Estado)) = 'A Credito'
+       OR UPPER(RTRIM(LTRIM(Estado))) = 'A CREDITO';
+
+    -- Seleccionar las cuentas por pagar con el término de búsqueda y estado específico
+    SELECT 
+        c.Id_Compra,
+        c.Id_Proveedor,
+        p.Nombre AS Nombre_Proveedor,
+        c.Fecha,
+        c.Total,
+        c.Estado,
+        dc.Id_Detalle_Compra,
+        dc.Descripcion_Producto,
+        dc.Cantidad,
+        dc.Precio_Unitario,
+        dc.Subtotal
+    FROM 
+        Compras AS c
+    INNER JOIN 
+        Proveedores AS p ON c.Id_Proveedor = p.Id_Proveedor
+    LEFT JOIN 
+        Detalle_Compras AS dc ON c.Id_Compra = dc.Id_Compra
+    WHERE 
+        dc.Descripcion_Producto LIKE @Buscar + '%' 
+        AND UPPER(RTRIM(LTRIM(c.Estado))) = UPPER('A Credito')
+    ORDER BY 
+        c.Id_Compra, dc.Id_Detalle_Compra;
+END;
+
+--ContarCuentasPorPagar
+CREATE PROCEDURE ContarCuentasPorPagar
+AS
+BEGIN
+    SELECT COUNT(Estado) AS CantidadProveedores FROM Compras where Estado='A Credito';
+END;
+
+--Cambia de A Credito a A Contado
+CREATE PROCEDURE SP_CambiarEstadoAContado
+    @Id_Compra INT
+AS
+BEGIN
+    UPDATE Compras
+    SET Estado = 'A Contado'
+    WHERE Id_Compra = @Id_Compra;
+END
+
+select * from Detalle_Compras
+--Buscar y Mostrar Ingredientes
+Create Proc MostrarIngredientes
+@Buscar Nvarchar (20)
+as
+select * from Ingredientes
+where Descripcion like @Buscar + '%'
+GO
+
+-------------------------------------------------------Mostrar Venta------------------------------------------------------------------
+Create Proc [dbo].[SP_Mostrar_Venta]
+AS
+SELECT
+    Detalles_Ventas.Codigo,
+    Detalles_Ventas.Id_Producto,
+    Productos.Nombre AS Producto,
+    Productos.Descripcion,
+    Productos.Marca,
+	Detalles_Ventas.Cantidad,
+    Detalles_Ventas.Cliente,
+    Detalles_Ventas.Precio_Unitario,
+    Detalles_Ventas.Total,
+    Detalles_Ventas.Tipo_Pago,
+    Detalles_Ventas.Fecha
+FROM
+    Detalles_Ventas
+INNER JOIN 
+    Productos ON Productos.Id_Producto = Detalles_Ventas.Id_Producto
+GO
+
+exec SP_Mostrar_Venta
+
+-------------------------------------------------------Insertar Venta------------------------------------------------------------------
+
+CREATE PROCEDURE [dbo].[SP_InsertarVenta]
+  @Id_Producto INT,
+  @Cantidad INT,
+  @Cliente NVARCHAR(500),
+  @Precio_Unitario DECIMAL(10, 2),
+  @Total DECIMAL(10, 2),
+  @Tipo_Pago NVARCHAR(50),
+  @Fecha NVARCHAR(50)
+AS
+BEGIN
+  INSERT INTO Detalles_Ventas(Id_Producto, Cantidad, Cliente, Precio_Unitario, Total, Tipo_Pago, Fecha)
+  VALUES (@Id_Producto, @Cantidad, @Cliente, @Precio_Unitario, @Total, @Tipo_Pago, @Fecha);
+END;
+GO
+
+-------------------------------------------------------Buscar Venta------------------------------------------------------------------
+CREATE PROC [dbo].[SP_Buscar_Venta]
+    @Buscar NVARCHAR(20)
+AS
+BEGIN
+    SELECT
+        Detalles_Ventas.Codigo,
+    Detalles_Ventas.Id_Producto,
+    Productos.Nombre AS Producto,
+    Productos.Descripcion,
+    Productos.Marca,
+	Detalles_Ventas.Cantidad,
+    Detalles_Ventas.Cliente,
+    Detalles_Ventas.Precio_Unitario,
+    Detalles_Ventas.Total,
+    Detalles_Ventas.Tipo_Pago,
+    Detalles_Ventas.Fecha
+    FROM
+        Detalles_Ventas
+    INNER JOIN 
+        Productos ON Productos.Id_Producto = Detalles_Ventas.Id_Producto
+    WHERE Productos.Nombre LIKE @Buscar + '%'
+END
+GO
+
+
+---------------------------------------------Usuarios---------------------------------------
+
+
+--Procedimiento Verificar Usuario
+CREATE PROCEDURE SP_VerificarUsuario
+    @Usuario NVARCHAR(40),
+    @Clave NVARCHAR(40)
+AS
+BEGIN
+    IF EXISTS (
+        SELECT 1
+        FROM Usuarios
+        WHERE Usuario = @Usuario
+        AND Clave = @Clave
+    )
+    BEGIN
+        -- Si el usuario y la clave son correctos
+        SELECT 1 AS Resultado;  -- Devuelve 1 si es exitoso
+    END
+    ELSE
+    BEGIN
+        -- Si el usuario no existe o la clave no coincide
+        SELECT 0 AS Resultado;  -- Devuelve 0 si no coincide
+    END
+END;
+
+
+--Procedimiento Mostrar Usuarios
+create proc Sp_Mostrar_Usuarios
+@Buscar Nvarchar (20)
+as
+Select * from Usuarios
+where Usuario like @Buscar + '%'
+
+
+--Procedimiento Agregar Usuarios
+CREATE PROCEDURE Sp_Agregar_Usuarios
+    @Nombre NVARCHAR(100),
+    @Rol NVARCHAR(100),
+    @Clave NVARCHAR(100)
+AS
+BEGIN
+    -- Verificar si el usuario ya existe
+    IF EXISTS (SELECT 1 FROM Usuarios WHERE Usuario = @Nombre)
+    BEGIN
+        -- Generar un error si el usuario ya existe
+        RAISERROR('El usuario ya existe. No se puede duplicar.', 16, 1);
+        RETURN;
+    END
+    
+    -- Insertar el usuario si no existe
+    INSERT INTO Usuarios (Usuario, Rol, Clave) 
+    VALUES (@Nombre, @Rol, @Clave);
+
+    PRINT 'Usuario agregado correctamente.';
+END
+GO
+
+--Procedimiento Eliminar Usuarios
+Create proc Sp_Eliminar_Usuarios
+@Id int
+as
+delete Usuarios
+where Id_Usuario=@Id
+GO
+
+--Procedimiento Editar Usuarios
+Create proc Sp_Editar_Usuarios
+@Id_Usuario int,
+@Nombre Nvarchar (50),
+@Rol Nvarchar (50),
+@Clave Nvarchar (50)
+as
+Update Usuarios set Usuario=@Nombre, Rol=@Rol,Clave=@Clave
+WHERE Id_Usuario= @Id_Usuario
+GO
+
+
+--Disparador Que Actualiza El Stock
+CREATE TRIGGER TR_ActualizarStock
+ON Detalles_Ventas
+AFTER INSERT
+AS
+BEGIN
+    -- Se asegura de que haya filas insertadas en Detalles_Ventas
+    IF EXISTS (SELECT 1 FROM inserted)
+    BEGIN
+        -- Verificar si la cantidad supera el stock disponible
+        IF EXISTS (
+            SELECT 1
+            FROM Productos p
+            INNER JOIN inserted i ON p.Id_Producto = i.Id_Producto
+            WHERE i.Cantidad > p.Stock
+        )
+        BEGIN
+            -- Generar un error si la cantidad es mayor que el stock
+            ROLLBACK TRANSACTION;
+            RAISERROR('La cantidad solicitada es mayor que el stock disponible.', 16, 1);
+            RETURN;
+        END
+
+        -- Actualizar el stock del producto correspondiente
+        UPDATE p
+        SET p.Stock = p.Stock - i.Cantidad
+        FROM Productos p
+        INNER JOIN inserted i ON p.Id_Producto = i.Id_Producto;
+    END
+END;

@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SASA\\Nomina\\Nomina\\Nomina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|e:\\sasa\\nomina\\nomina\\nomina\\repusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:repusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\repnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:repnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\repempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:repempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregarrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregarrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregarrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregarrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregaredificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregaredificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregaredificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregaredificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregardepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregardepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregarcargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregarcargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregarcargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregarcargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\editarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:editarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\editarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:editarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\editardepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:editardepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\documentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:documentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\deducciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:deducciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\contratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:contratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\editardepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:editardepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\agregardepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:agregardepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\editarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:editarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\editarempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:editarempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|E:\\SASA\\Nomina\\Nomina\\Nomina\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D989FA17-9119-451C-8117-7BDD8E6DBD1E}|Nomina.csproj|solutionrelative:empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Empresa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Empresa.cs",
+              "RelativeDocumentMoniker": "Empresa.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\Empresa.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:06:07.56Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgregarEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarEmpleado.cs",
+              "RelativeDocumentMoniker": "AgregarEmpleado.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\AgregarEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:48:11.765Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditarEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\EditarEmpleado.cs",
+              "RelativeDocumentMoniker": "EditarEmpleado.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\EditarEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:04:53.752Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditarEmpleado.cs",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\EditarEmpleado.cs",
+              "RelativeDocumentMoniker": "EditarEmpleado.cs",
+              "ToolTip": "E:\\SASA\\Nomina\\Nomina\\Nomina\\EditarEmpleado.cs",
+              "RelativeToolTip": "EditarEmpleado.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAiwMUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:05:25.428Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AgregarEmpleado.cs",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarEmpleado.cs",
+              "RelativeDocumentMoniker": "AgregarEmpleado.cs",
+              "ToolTip": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarEmpleado.cs",
+              "RelativeToolTip": "AgregarEmpleado.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:04:49.147Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mainpage.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Mainpage.cs",
+              "RelativeDocumentMoniker": "Mainpage.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\Mainpage.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:14:28.498Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgregarEdificio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarEdificio.cs",
+              "RelativeDocumentMoniker": "AgregarEdificio.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\AgregarEdificio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:55:48.477Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\RepUsuarios.cs",
+              "RelativeDocumentMoniker": "RepUsuarios.cs",
+              "ToolTip": "E:\\SASA\\Nomina\\Nomina\\Nomina\\RepUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RepUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:07:31.243Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgregarRol.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarRol.cs",
+              "RelativeDocumentMoniker": "AgregarRol.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\AgregarRol.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:22:30.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\RepEmpleado.cs",
+              "RelativeDocumentMoniker": "RepEmpleado.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\RepEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:07:22.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepNomina.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\RepNomina.cs",
+              "RelativeDocumentMoniker": "RepNomina.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\RepNomina.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:07:26.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AgregarCargos.cs",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarCargos.cs",
+              "RelativeDocumentMoniker": "AgregarCargos.cs",
+              "ToolTip": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarCargos.cs",
+              "RelativeToolTip": "AgregarCargos.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:26:19.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgregarEdificio.cs",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarEdificio.cs",
+              "RelativeDocumentMoniker": "AgregarEdificio.cs",
+              "ToolTip": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarEdificio.cs",
+              "RelativeToolTip": "AgregarEdificio.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwCAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:28:20.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarRol.cs",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarRol.cs",
+              "RelativeDocumentMoniker": "AgregarRol.cs",
+              "ToolTip": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarRol.cs",
+              "RelativeToolTip": "AgregarRol.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwCAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:28:52.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgregarUsuario.cs",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarUsuario.cs",
+              "RelativeDocumentMoniker": "AgregarUsuario.cs",
+              "ToolTip": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarUsuario.cs",
+              "RelativeToolTip": "AgregarUsuario.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAiwFEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:29:20.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgregarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarUsuario.cs",
+              "RelativeDocumentMoniker": "AgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\AgregarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:04:13.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgregarCargos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarCargos.cs",
+              "RelativeDocumentMoniker": "AgregarCargos.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\AgregarCargos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:59:19.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgregarDepartamento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarDepartamento.cs",
+              "RelativeDocumentMoniker": "AgregarDepartamento.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\AgregarDepartamento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:54:57.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Nomina.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Nomina.cs",
+              "RelativeDocumentMoniker": "Nomina.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\Nomina.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:07:19.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:07:13.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:07:10.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Documentacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Documentacion.cs",
+              "RelativeDocumentMoniker": "Documentacion.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\Documentacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:06:50.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditarDepartamento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\EditarDepartamento.cs",
+              "RelativeDocumentMoniker": "EditarDepartamento.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\EditarDepartamento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:02:30.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\EditarUsuario.cs",
+              "RelativeDocumentMoniker": "EditarUsuario.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\EditarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:04:44.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Empleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Empleados.cs",
+              "RelativeDocumentMoniker": "Empleados.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\Empleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:04:52.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Departamentos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Departamentos.cs",
+              "RelativeDocumentMoniker": "Departamentos.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\Departamentos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:06:44.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Deducciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Deducciones.cs",
+              "RelativeDocumentMoniker": "Deducciones.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\Deducciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:06:39.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Contratos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Contratos.cs",
+              "RelativeDocumentMoniker": "Contratos.cs",
+              "ToolTip": "C:\\Users\\xamue\\Downloads\\Nomina\\Nomina\\Nomina\\Contratos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:06:31.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditarDepartamento.cs",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\EditarDepartamento.cs",
+              "RelativeDocumentMoniker": "EditarDepartamento.cs",
+              "ToolTip": "E:\\SASA\\Nomina\\Nomina\\Nomina\\EditarDepartamento.cs",
+              "RelativeToolTip": "EditarDepartamento.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwDcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:02:33.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AgregarDepartamento.cs",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarDepartamento.cs",
+              "RelativeDocumentMoniker": "AgregarDepartamento.cs",
+              "ToolTip": "E:\\SASA\\Nomina\\Nomina\\Nomina\\AgregarDepartamento.cs",
+              "RelativeToolTip": "AgregarDepartamento.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAnwEcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:57:56.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Mainpage.cs",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Mainpage.cs",
+              "RelativeDocumentMoniker": "Mainpage.cs",
+              "ToolTip": "E:\\SASA\\Nomina\\Nomina\\Nomina\\Mainpage.cs",
+              "RelativeToolTip": "Mainpage.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAAAMIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:51:24.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EditarEmpleado.Designer.cs",
+              "DocumentMoniker": "E:\\SASA\\Nomina\\Nomina\\Nomina\\EditarEmpleado.Designer.cs",
+              "RelativeDocumentMoniker": "EditarEmpleado.Designer.cs",
+              "ToolTip": "E:\\SASA\\Nomina\\Nomina\\Nomina\\EditarEmpleado.Designer.cs",
+              "RelativeToolTip": "EditarEmpleado.Designer.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAIAwwLMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:44:48.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

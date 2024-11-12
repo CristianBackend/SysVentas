@@ -1,0 +1,12 @@
+C:\Sistema Farmacia\Sistema_Ventas_MC\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Sistema Farmacia\Sistema_Ventas_MC\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Sistema Farmacia\Sistema_Ventas_MC\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Sistema Farmacia\Sistema_Ventas_MC\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Sistema Farmacia\Sistema_Ventas_MC\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Sistema Farmacia\Sistema_Ventas_MC\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\colon\Desktop\Sistema Terraza\LaTerraza\LaTerraza\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\colon\Desktop\Sistema Terraza\LaTerraza\LaTerraza\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\colon\Desktop\Sistema Terraza\LaTerraza\LaTerraza\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\colon\Desktop\Sistema Terraza\LaTerraza\LaTerraza\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\colon\Desktop\Sistema Terraza\LaTerraza\LaTerraza\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\colon\Desktop\Sistema Terraza\LaTerraza\LaTerraza\CapaEntidades\obj\Debug\CapaEntidades.pdb
